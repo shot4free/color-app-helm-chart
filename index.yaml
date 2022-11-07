@@ -3,12 +3,12 @@ entries:
   color-app:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-04T13:06:11.196474-07:00"
+    created: "2022-11-07T11:28:12.730724-08:00"
     description: A Helm chart for Kubernetes
-    digest: 1c763dcd1de17e36d5686cb34bda7db6290bfd91c9d061ef24d45fa421693159
+    digest: 4b3062f699332d65c1b7bde4a14a2592035b571af8ead8f251ebc4e53fc82fde
     name: color-app
     type: application
     urls:
     - https://shot4free.github.io/color-app-helm-chart/color-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-04T13:06:11.195808-07:00"
+generated: "2022-11-07T11:28:12.730188-08:00"
